@@ -1,0 +1,20 @@
+# Scripts temporales de generacion
+bloque2_ml/ejecutar_ml.py
+bloque2_ml/generar_graficos.py
+bloque2_ml/update_notebook.py
+bloque2_ml/test_plot.png
+bloque2_ml/cell_debug.txt
+bloque3_nlp/generar_corpus.py
+bloque3_nlp/generar_outputs.py
+bloque3_nlp/crear_notebook.py
+bloque3_nlp/cell_debug.txt
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Spark
+metastore_db/
+derby.log
+spark-warehouse/
